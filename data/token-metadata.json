@@ -2,7 +2,7 @@
   "name": "FROXI",
   "symbol": "FRXI",
   "description": "FROXI Meme Token",
-  "image": "https://github.com/froxi-team/token-metadata/blob/main/images/froxi_logo.jpg",
+  "image": "https://raw.githubusercontent.com/froxi-team/token-metadata/main/images/froxi_logo.jpg",
   "extensions": {
     "website": "",
     "twitter": "",
